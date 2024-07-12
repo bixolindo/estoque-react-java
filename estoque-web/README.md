@@ -11,11 +11,6 @@ Antes de começar, certifique-se de ter o Node.js e npm (ou yarn) instalados em 
 
 ## Instalação
 
-Clone o repositório para a sua máquina local:
-
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
-
 Instale as dependências do projeto : npm install (ou yarn install)
 
 ## Variáveis de Ambiente
