@@ -1,0 +1,13 @@
+C:\Users\gustavo.vasconcelos\Documents\estoque\src\main\java\com\example\estoque\controller\FornecedorController.java
+C:\Users\gustavo.vasconcelos\Documents\estoque\src\main\java\com\example\estoque\controller\ProdutoController.java
+C:\Users\gustavo.vasconcelos\Documents\estoque\src\main\java\com\example\estoque\dto\FornecedorDto.java
+C:\Users\gustavo.vasconcelos\Documents\estoque\src\main\java\com\example\estoque\dto\LocalidadeDto.java
+C:\Users\gustavo.vasconcelos\Documents\estoque\src\main\java\com\example\estoque\EstoqueApplication.java
+C:\Users\gustavo.vasconcelos\Documents\estoque\src\main\java\com\example\estoque\model\Fornecedor.java
+C:\Users\gustavo.vasconcelos\Documents\estoque\src\main\java\com\example\estoque\model\Produto.java
+C:\Users\gustavo.vasconcelos\Documents\estoque\src\main\java\com\example\estoque\repository\FornecedorRepository.java
+C:\Users\gustavo.vasconcelos\Documents\estoque\src\main\java\com\example\estoque\repository\ProdutoRepository.java
+C:\Users\gustavo.vasconcelos\Documents\estoque\src\main\java\com\example\estoque\security\SecurityConfiguration.java
+C:\Users\gustavo.vasconcelos\Documents\estoque\src\main\java\com\example\estoque\service\FornecedorService.java
+C:\Users\gustavo.vasconcelos\Documents\estoque\src\main\java\com\example\estoque\service\LocalidadeService.java
+C:\Users\gustavo.vasconcelos\Documents\estoque\src\main\java\com\example\estoque\service\ProdutoService.java

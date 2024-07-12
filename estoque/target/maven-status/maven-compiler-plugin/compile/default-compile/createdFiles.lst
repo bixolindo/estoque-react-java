@@ -1,0 +1,9 @@
+com\example\estoque\model\Produto.class
+com\example\estoque\controller\FornecedorController.class
+com\example\estoque\service\ProdutoService.class
+com\example\estoque\repository\ProdutoRepository.class
+com\example\estoque\model\Fornecedor.class
+com\example\estoque\controller\ProdutoController.class
+com\example\estoque\service\FornecedorService.class
+com\example\estoque\repository\FornecedorRepository.class
+com\example\estoque\EstoqueApplication.class
